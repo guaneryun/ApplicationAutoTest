@@ -3,3 +3,4 @@
 这是创建wmergeDemo
 这是分支上新增的内容
 version 1
+version 2
